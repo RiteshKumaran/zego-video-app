@@ -1,0 +1,1 @@
+web: gunicorn videoconference-app.wsgi:application
